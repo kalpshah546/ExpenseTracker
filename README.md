@@ -15,4 +15,5 @@ A simple and intuitive Expense Tracker app to help you monitor your daily and mo
 
 Example: 
 ![Screenshot](https://github.com/kalpshah546/ExpenseTracker/blob/main/images/WhatsApp%20Image%202025-06-09%20at%207.51.00%20PM.jpeg))
+![Screenshot](https://github.com/kalpshah546/ExpenseTracker/blob/main/images/WhatsApp%20Image%202025-06-09%20at%207.51.01%20PM.jpeg))
 
