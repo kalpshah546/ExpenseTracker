@@ -13,4 +13,5 @@ A simple and intuitive Expense Tracker app to help you monitor your daily and mo
 
 ## 📸 Screenshots
 
-Example:
+Example: 
+![Screenshot](images/WhatsApp Image 2025-06-09 at 7.51.00 PM.jpeg)
